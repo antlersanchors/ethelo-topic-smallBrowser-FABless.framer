@@ -1,6 +1,6 @@
 {
   "propertyPanelToggleStates" : {
-
+    "Filters" : false
   },
   "deviceOrientation" : 0,
   "sharedPrototype" : 0,
@@ -10,7 +10,11 @@
   "updateDelay" : 0.3,
   "deviceScale" : "fit",
   "foldedCodeRanges" : [
-    "{0, 194}"
+    "{0, 194}",
+    "{438, 59}",
+    "{498, 241}",
+    "{1737, 333}",
+    "{2071, 618}"
   ],
   "orientation" : 0,
   "fullScreen" : false
