@@ -148,7 +148,7 @@ tabsScroll = new ScrollComponent
 	height: 127
 	scrollVertical: false
 	mouseWheelEnabled: true
-	y: 1514
+	y: 1506
 	x: 43
 
 horizontalScrollMenu.superLayer = tabsScroll.content
